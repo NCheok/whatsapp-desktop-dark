@@ -9,7 +9,7 @@ WhatsApp Desktop Dark Mode by <a href="https://github.com/m4heshd">m4heshd</a>
   <br>
 </h1>
 
-Stable version: [**`0.3.4678`**](https://github.com/m4heshd/whatsapp-desktop-dark/releases/tag/0.3.4678) (Check if this version matches with your version of WhatsApp. The mod will still work even if the versions doesn't match)
+Stable version: [**`0.3.4679`**](https://github.com/m4heshd/whatsapp-desktop-dark/releases/tag/0.3.4678) (Check if this version matches with your version of WhatsApp. The mod will still work even if the versions doesn't match)
 
 This mod is a simple tweak for [WhatsApp Desktop **Official** version](https://www.whatsapp.com/download/) to make it look awesomely dark.
 
